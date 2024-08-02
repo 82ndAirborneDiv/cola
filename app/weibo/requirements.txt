@@ -3,3 +3,4 @@ python-dateutil
 BeautifulSoup4
 mongoengine
 rsa
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
